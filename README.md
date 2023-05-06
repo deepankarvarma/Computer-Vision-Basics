@@ -1,5 +1,5 @@
 ## Face Recognition
-### Dataset Link for CV2 :- https://www.kaggle.com/datasets/ashwingupta3012/human-faces
+### images -> personname.jpg
 Face recognition is the problem of identifying and verifying people in a photograph by
 their face. It is a task that is trivially performed by humans, even under varying light and
 when faces are changed by age or obstructed with accessories and facial hair. Face

@@ -1,4 +1,3 @@
 /Assignment_CV1.py
-archive.zip
-105_classes_pins_dataset
-shape_predictor_68_face_landmarks.dat
+./face_enc
+/images
